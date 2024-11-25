@@ -1,4 +1,4 @@
-** TP DOCKER 
+TP DOCKER 
 ---------------
 Les URLs d'accès sont les suivantes:
 - Accès au frontend via http://localhost
